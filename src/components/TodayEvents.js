@@ -14,6 +14,8 @@ const TodayEvents = () => {
 
 const Wrapper = styled.div`
 	display: inline-flex;
+	width: 100%;
+	min-width: 1090px;
 `;
 
 export default TodayEvents;

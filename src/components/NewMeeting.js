@@ -16,7 +16,7 @@ const NewMeeting = () => {
 const Wrapper = styled.div`
 	width: 370px;
 	margin: 0 auto;
-	padding: 20px 100px;
+	padding: 60px 0;
 `;
 
 const Title = styled.div`
